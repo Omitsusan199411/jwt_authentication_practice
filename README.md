@@ -1,2 +1,2 @@
-# jwt_authentication_practice
-jwt authentication practice
+# 概要
+JWT認証を試してみるリポジトリ
